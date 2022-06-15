@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "552576205156",
+    "firebase_url": "https://esp32-unity-project-default-rtdb.firebaseio.com",
+    "project_id": "esp32-unity-project",
+    "storage_bucket": "esp32-unity-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552576205156:android:72d5460a5d6a48f3a8fa71",
+        "android_client_info": {
+          "package_name": "com.example.distance_meter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552576205156-f37q2un6e22sv5e7oic9a5o1iagub3v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQD2MZY7h7QoebsaHThDKdZyggN8zlRf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552576205156-f37q2un6e22sv5e7oic9a5o1iagub3v2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552576205156-jajoe4f9q093i5qupc87rgim7cjk4o97.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.distanceMeter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552576205156:android:15ec16b50c53673da8fa71",
+        "android_client_info": {
+          "package_name": "com.samadon.firebase.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552576205156-7ud51lbig62710mvrr0k5nn9vninlsj4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samadon.firebase.test",
+            "certificate_hash": "6031344dc504ecd0d41e31938878f18934d3c74f"
+          }
+        },
+        {
+          "client_id": "552576205156-f37q2un6e22sv5e7oic9a5o1iagub3v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQD2MZY7h7QoebsaHThDKdZyggN8zlRf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552576205156-f37q2un6e22sv5e7oic9a5o1iagub3v2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552576205156-jajoe4f9q093i5qupc87rgim7cjk4o97.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.distanceMeter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
