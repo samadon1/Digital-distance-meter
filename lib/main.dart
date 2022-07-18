@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Digital distance meter',
+      title: 'Digital distance meter App',
       theme: ThemeData(
         primarySwatch: Colors.green,
       ),
